@@ -34,6 +34,23 @@ QQ群642842749
     }
 }
 ```
+备用模板
+...
+
+        "Koolshare论坛":{
+            "name": "Koolshare论坛", 
+            "author": "justin0705", 
+            "url": "", 
+            "update": false, 
+            "comments": "每日登录奖励<br>若签到不稳定也请自行添加hosts<br>https://koolshare.cn/forum.php", 
+            "filename": "Koolshare论坛.har", 
+            "content": "", 
+            "date": "20210805",
+            "version":"20210805",
+            "commenturl":"选填，模板对应的评论区，留空时不显示按钮"
+                  }
+
+...
 2. 加速默认是jsdeliver 加速，只支持github的加速
 3. 模板更新规则：上一次更新的24小时以后更新，通过name判断是否存在，如果不存在直接新增，如果存在则通过version判断,版本号大于当前缓存版本则更新
 
