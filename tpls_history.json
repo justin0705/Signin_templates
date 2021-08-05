@@ -4,7 +4,7 @@
         "Koolshare论坛":{
             "name": "Koolshare论坛", 
             "author": "justin0705", 
-            "url": "https://koolshare.cn", 
+            "url": "https://raw.githubusercontent.com/justin0705/Signin_templates/main/Koolshare%E8%AE%BA%E5%9D%9B.har", 
             "update": false, 
             "comments": "每日登录奖励<br>若签到不稳定也请自行添加hosts<br>https://koolshare.cn/forum.php", 
             "filename": "Koolshare论坛.har", 
